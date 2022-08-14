@@ -100,3 +100,7 @@ form select ~ label {
 form select ~ label input {
     margin-right: 1em;
 }
+body > p {
+    background-color: aliceblue;
+    margin: 0;
+}
